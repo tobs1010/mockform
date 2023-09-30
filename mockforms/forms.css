@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+form input{
+    width: 20%;
+    margin: 0%;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+form label{
+    color: black;
+    text-align: center;
+}
+
+button{
+background: rgb(67, 67, 167);
+border: 0;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+body{
+    font-family: Arial;
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+    background: rgb(154, 154, 200) ;
+}
